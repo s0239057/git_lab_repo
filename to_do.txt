@@ -1,0 +1,32 @@
+Online Training
+
+- Setup Apollo & test
+- Kick off FRCR 2022b
+- FMS NIA
+- Tidy up DC forecasts
+- DC buy order review
+- BP1882 update
+- DC offsetting with DR/DM
+
+
+- SOE rules, CEP
+- BMRS
+- HELENA
+- MBSS
+- ASB, BAAR
+
+
+
+
+
+
+- FRCR vs ws
+	- efforts of considerations
+	- agree roles and attendees in person
+	- manage in Sarahs absence
+	- papers (scoping paper for RAPID)
+	- intro based on attendees (i.e. ENCC in morning so need key input), identify peoples roles and inputs
+
+
+
+
